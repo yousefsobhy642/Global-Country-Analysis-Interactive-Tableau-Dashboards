@@ -27,7 +27,7 @@ parameters, calculated fields, dashboard actions and a Tableau Story.
   basis for comparing large nations.
 
 ### 2. HIV & Health Indicators
-![Dashboard 2](images/dashboard2_hiv_health.png)
+![Dashboard 2](Images/dashboard2_hiv_health.png)
 
 - **HIV is concentrated, not universal.** 22 countries have adult
   prevalence of 5% or more, and 21 of them are in the Poor income
