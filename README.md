@@ -44,7 +44,7 @@ parameters, calculated fields, dashboard actions and a Tableau Story.
   income does not fully determine life expectancy.
 
 ### 3. Global Economy & Growth
-![Dashboard 3](images/dashboard3_economy.png)
+![Dashboard 3](Images/dashboard3_economy.png)
 
 - **Size is not living standard.** China's GDP is about 7.3
   trillion, yet its GDP per capita (5,600) is far below the US
