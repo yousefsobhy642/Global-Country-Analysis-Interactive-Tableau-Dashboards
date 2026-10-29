@@ -9,7 +9,7 @@ parameters, calculated fields, dashboard actions and a Tableau Story.
 ## Dashboards and Findings
 
 ### 1. Global Demographics Overview
-![Dashboard 1](images/dashboard1_demographics.png)
+![Dashboard 1](Images/dashboard1_demographics.png)
 
 - **Lower-income countries lead on births and infant mortality.**
   Most countries with high birth rate, fertility rate and infant
